@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2M.ma@SD",2M
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119051/2mmaroc/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Oula",Al Oula
+https://www.youtube.com/watch?v=Ds1sOe4wPYA
 #EXTINF:-1 tvg-id="2M.ma@SD",2M
 https://viamotionhsi.netplus.ch/live/eds/2mmaroc/browser-dash/2mmaroc.mpd
 #EXTINF:-1 tvg-id="2M.ma@SD",2M
