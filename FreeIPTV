@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Al Oula",Al Oula
-https://www.youtube.com/watch?v=Ds1sOe4wPYA
 #EXTINF:-1 tvg-id="2M.ma@SD",2M
 https://viamotionhsi.netplus.ch/live/eds/2mmaroc/browser-dash/2mmaroc.mpd
 #EXTINF:-1 tvg-id="2M.ma@SD",2M
@@ -21,21 +19,33 @@ https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8
 #EXTINF:-1 tvg-id="ChadaTV.ma@SD",Chada TV (720p)
 https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Medi1TVAfrique.ma",Medi1TV Afrique (720p)
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Medi1TVAfrique.ma@SD",Medi 1 TV Afrique (720p)
-https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Medi1TVAfrique.ma@SD",Medi 1 TV Afrique (720p)
-https://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Medi1TVAfrique.ma@SD",Medi1TV Afrique
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120429/meditv/playlist.m3u8
 #EXTINF:-1 tvg-id="Medi1TVArabic.ma@SD",Medi 1 TV Arabic (720p)
-https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Medi1TVArabic.ma@SD",Medi 1 TV Arabic (720p)
 https://streaming2.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Medi1TVMaghreb.ma@SD",Medi 1 TV Maghreb (720p)
-https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Medi1TVMaghreb.ma@SD",Medi 1 TV Maghreb (720p)
 https://streaming2.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Medi1TVMaghreb.ma@SD",Medi1TV Maghreb
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119051/medhionetvmaghreb/playlist.m3u8
 #EXTINF:-1 tvg-id="StoryChannelTV.ma@SD",StoryChannel TV (720p)
 https://136044159.r.cdnsun.net/storychannel.m3u8
+#EXTINF:-1 tvg-id="TamazightTV.ma@SD",Tamazight TV
+https://cdnet.alwaysdata.net/maro7/matamaz.php?m3u8
+#EXTINF:-1 tvg-id="LaayouneTV.ma@SD",Laayoune TV
+https://oppomu.serv00.net/maro7/malaayoune.php?m3u8
+#EXTINF:-1 tvg-id="Assadissa.ma@SD",Assadissa
+https://xddrts.alwaysdata.net/maro7/maassadi.php?m3u8
+#EXTINF:-1 tvg-id="Athaqafia.ma@SD",Athaqafia
+https://oppomu.serv00.net/maro7/maarrabia.php?m3u8
+#EXTINF:-1 tvg-id="Arryadia.ma@SD",Arryadia SD
+https://oppomu.serv00.net/maro7/maarry.php?m3u8
+#EXTINF:-1 tvg-id="AlAoula.ma@SD",Al Aoula
+https://xddrts.alwaysdata.net/maro7/maaloula.php?m3u8
