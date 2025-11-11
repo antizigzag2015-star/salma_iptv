@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2M.ma@SD",2M
-https://viamotionhsi.netplus.ch/live/eds/2mmaroc/browser-dash/2mmaroc.mpd
-#EXTINF:-1 tvg-id="2M.ma@SD",2M
-https://viamotionhsi.netplus.ch/live/eds/2mmaroc/browser-HLS8/2mmaroc.m3u8
-#EXTINF:-1 tvg-id="2MMonde.ma@SD" http-referrer="https://2m.ma" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",2M Monde
-#EXTVLCOPT:http-referrer=https://2m.ma
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 tvg-id="2MMonde.ma@Plus1",2M Monde +1 (1080p)
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 tvg-id="AlMaghribia.ma@SD",Al Maghribia
@@ -49,3 +41,4 @@ https://oppomu.serv00.net/maro7/maarrabia.php?m3u8
 https://oppomu.serv00.net/maro7/maarry.php?m3u8
 #EXTINF:-1 tvg-id="AlAoula.ma@SD",Al Aoula
 https://xddrts.alwaysdata.net/maro7/maaloula.php?m3u8
+
