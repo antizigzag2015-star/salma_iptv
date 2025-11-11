@@ -1,4 +1,66 @@
 #EXTM3U
+#EXTINF:-1 tvg-id=,Al Jazeera Arabic
+https://www.youtube.com/watch?v=bNyUyrR0PHo
+#EXTINF:-1 tvg-id=,Al Jazeera Mubasher
+https://www.youtube.com/watch?v=mJdhDuweBHM
+#EXTINF:-1 tvg-id=,AlArabiya
+https://www.youtube.com/watch?v=n7eQejkXbnM
+#EXTINF:-1 tvg-id=,AlHadath
+https://www.youtube.com/watch?v=zi9knajcejY
+#EXTINF:-1 tvg-id=,Al-Arabiya Business
+https://www.youtube.com/watch?v=rXnG4eiVVdM
+#EXTINF:-1 tvg-id=,Alarabiya FM
+https://www.youtube.com/watch?v=lFmaB_-UZA0
+#EXTINF:-1 tvg-id=,Al Arabiya Programs
+https://www.youtube.com/watch?v=k392vL2Yqo8
+#EXTINF:-1 tvg-id=,Sky News Arabia
+https://www.youtube.com/watch?v=U--OjmpjF5o
+#EXTINF:-1 tvg-id=,BBC News Arabic
+https://www.youtube.com/watch?v=MwMcT-2rruU
+#EXTINF:-1 tvg-id=,Quest Arabiya
+https://www.youtube.com/watch?v=RPHhPIc1iXo 
+#EXTINF:-1 tvg-id=,CNBC Arabia
+https://www.youtube.com/watch?v=1cFSuPvC4uY
+#EXTINF:-1 tvg-id=,Makkah
+https://www.youtube.com/watch?v=fWgr-2xJaYs
+#EXTINF:-1 tvg-id=,Al Madina
+https://www.youtube.com/watch?v=TpT8b8JFZ6E
+#EXTINF:-1 tvg-id=,Al-Arabiya Business
+https://www.youtube.com/watch?v=rXnG4eiVVdM
+#EXTINF:-1 tvg-id=,France 24 Arabic
+https://www.youtube.com/watch?v=3ursYA8HMeo
+#EXTINF:-1 tvg-id=,Alaraby
+https://www.youtube.com/watch?v=e2RgSa1Wt5o
+#EXTINF:-1 tvg-id=,DW Arabic
+https://www.youtube.com/watch?v=AGkp2AL8e7o
+#EXTINF:-1 tvg-id=,TRT Arabic
+https://www.youtube.com/watch?v=L75h_UJpDc8
+#EXTINF:-1 tvg-id=,Al Ekhbaria
+https://www.youtube.com/watch?v=vykVXFlGQi8
+#EXTINF:-1 tvg-id=,CGTN Arabic
+https://www.youtube.com/watch?v=HTmI3-SRw3Q
+#EXTINF:-1 tvg-id=,Asharq News
+https://www.youtube.com/watch?v=f6VpkfV7m4Y
+#EXTINF:-1 tvg-id=,8K Ultra HD
+https://www.youtube.com/watch?v=Wa9iIaPY_nQ
+#EXTINF:-1 tvg-id=,Spanish Arabian Music
+https://www.youtube.com/watch?v=IGVm6tg_WMk
+#EXTINF:-1 tvg-id=,Wildlife
+https://www.youtube.com/watch?v=daqB3i9WYIY
+#EXTINF:-1 tvg-id=,Nat Geo Animals
+https://www.youtube.com/watch?v=THooYCltViI
+#EXTINF:-1 tvg-id=,Squirrel and Bird
+https://www.youtube.com/watch?v=UEyEs8AE1ss
+#EXTINF:-1 tvg-id=,Bloomberg Business
+https://www.youtube.com/watch?v=iEpJwprxDdk
+#EXTINF:-1 tvg-id=,Sky News
+https://www.youtube.com/watch?v=YDvsBbKfLPA
+#EXTINF:-1 tvg-id=,ABC News 
+https://www.youtube.com/watch?v=74vX1jONCi0
+#EXTINF:-1 tvg-id=,CBS News
+https://www.youtube.com/watch?v=74vX1jONCi0
+#EXTINF:-1 tvg-id=,NBC News NOW
+https://www.youtube.com/watch?v=bme5hsezRCk
 #EXTINF:-1 tvg-id="2M.ma@SD",2M
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119051/2mmaroc/playlist.m3u8
 #EXTINF:-1 tvg-id="2M.ma@SD",2M
@@ -39,3 +101,4 @@ https://streaming2.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119051/medhionetvmaghreb/playlist.m3u8
 #EXTINF:-1 tvg-id="StoryChannelTV.ma@SD",StoryChannel TV (720p)
 https://136044159.r.cdnsun.net/storychannel.m3u8
+
