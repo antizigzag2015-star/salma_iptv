@@ -1,10 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id=,Makkah
+https://www.youtube.com/watch?v=fWgr-2xJaYs
+#EXTINF:-1 tvg-id=,Al Madina
+https://www.youtube.com/watch?v=TpT8b8JFZ6E
 #EXTINF:-1 tvg-id=,AlOula
 https://www.youtube.com/watch?v=Ds1sOe4wPYA
 #EXTINF:-1 tvg-id="2MMonde.ma@Plus1",2M Monde +1 (1080p)
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
-#EXTINF:-1 tvg-id=,MBC Bollywood
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-id="AlMaghribia.ma@SD",Al Maghribia
 https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
 #EXTINF:-1 tvg-id="ChadaTV.ma@SD",Chada TV (720p)
@@ -13,32 +15,14 @@ https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id=,Al Jazeera Arabic
 https://www.youtube.com/watch?v=bNyUyrR0PHo
-#EXTINF:-1 tvg-id=,Al Jazeera Mubasher
-https://www.youtube.com/watch?v=mJdhDuweBHM
 #EXTINF:-1 tvg-id=,AlArabiya
 https://www.youtube.com/watch?v=n7eQejkXbnM
-#EXTINF:-1 tvg-id=,AlHadath
-https://www.youtube.com/watch?v=zi9knajcejY
-#EXTINF:-1 tvg-id=,Al-Arabiya Business
-https://www.youtube.com/watch?v=rXnG4eiVVdM
-#EXTINF:-1 tvg-id=,Alarabiya FM
-https://www.youtube.com/watch?v=lFmaB_-UZA0
-#EXTINF:-1 tvg-id=,Al Arabiya Programs
-https://www.youtube.com/watch?v=k392vL2Yqo8
 #EXTINF:-1 tvg-id=,Sky News Arabia
 https://www.youtube.com/watch?v=U--OjmpjF5o
 #EXTINF:-1 tvg-id=,BBC News Arabic
 https://www.youtube.com/watch?v=MwMcT-2rruU
-#EXTINF:-1 tvg-id=,Quest Arabiya
-https://www.youtube.com/watch?v=RPHhPIc1iXo 
 #EXTINF:-1 tvg-id=,CNBC Arabia
 https://www.youtube.com/watch?v=1cFSuPvC4uY
-#EXTINF:-1 tvg-id=,Makkah
-https://www.youtube.com/watch?v=fWgr-2xJaYs
-#EXTINF:-1 tvg-id=,Al Madina
-https://www.youtube.com/watch?v=TpT8b8JFZ6E
-#EXTINF:-1 tvg-id=,Al-Arabiya Business
-https://www.youtube.com/watch?v=rXnG4eiVVdM
 #EXTINF:-1 tvg-id=,France 24 Arabic
 https://www.youtube.com/watch?v=3ursYA8HMeo
 #EXTINF:-1 tvg-id=,Alaraby
@@ -51,6 +35,8 @@ https://www.youtube.com/watch?v=L75h_UJpDc8
 https://www.youtube.com/watch?v=vykVXFlGQi8
 #EXTINF:-1 tvg-id=,Asharq News
 https://www.youtube.com/watch?v=f6VpkfV7m4Y
+#EXTINF:-1 tvg-id=,Quest Arabiya
+https://www.youtube.com/watch?v=RPHhPIc1iXo 
 #EXTINF:-1 tvg-id=,Wildlife
 https://www.youtube.com/watch?v=daqB3i9WYIY
 #EXTINF:-1 tvg-id=,Nat Geo Animals
@@ -65,6 +51,7 @@ https://www.youtube.com/watch?v=74vX1jONCi0
 https://www.youtube.com/watch?v=74vX1jONCi0
 #EXTINF:-1 tvg-id=,NBC News NOW
 https://www.youtube.com/watch?v=bme5hsezRCk
+
 
 
 
