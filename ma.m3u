@@ -3,6 +3,8 @@
 https://www.youtube.com/watch?v=Ds1sOe4wPYA
 #EXTINF:-1 tvg-id="2MMonde.ma@Plus1",2M Monde +1 (1080p)
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+#EXTINF:-1 tvg-id=,MBC Bollywood
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-id="AlMaghribia.ma@SD",Al Maghribia
 https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
 #EXTINF:-1 tvg-id="ChadaTV.ma@SD",Chada TV (720p)
@@ -63,6 +65,7 @@ https://www.youtube.com/watch?v=74vX1jONCi0
 https://www.youtube.com/watch?v=74vX1jONCi0
 #EXTINF:-1 tvg-id=,NBC News NOW
 https://www.youtube.com/watch?v=bme5hsezRCk
+
 
 
 
